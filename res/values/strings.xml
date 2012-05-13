@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- automatically select Kanji languages -->
+    <string name="autoKanjiLanguage1">@string/pCodeEnglish</string>
+    <string name="autoKanjiLanguage2">@string/pCodeNoLanguage</string>
+    <string name="autoWordLanguage1">@string/pCodeEnglish</string>
+    <string name="autoWordLanguage2">@string/pCodeNoLanguage</string>
+
+    <!-- language choices -->
+    <string name="English">English</string>
+    <string name="French">French</string>
+    <string name="Spanish">Spanish</string>
+    <string name="Portuguese">Portuguese</string>
+    <string name="German">German</string>
+    <string name="Russian">Russian</string>
+    <string name="NoLanguage">None</string>
+
+    <!-- widgets -->
+    <string name="buttonClear">Clear</string>
+    <string name="buttonCancel">Cancel</string>
+    <string name="buttonOk">OK</string>
+    <string name="buttonExit">Exit</string>
+
+    <!-- FileDialog -->
+    <string name="textLocation">Location</string>
+    <string name="textCantReadFolder">folder can\'t be read!</string>
+    <string name="buttonNew">New</string>
+    <string name="buttonSelect">Select</string>
+    <string name="buttonCreate">Create</string>
+    <string name="textNoData">No Data</string>
+    <string name="textFilename">File name:</string>
+
+</resources>
