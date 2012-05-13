@@ -1,19 +1,10 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- persistent data, don't touch (auto select languages) -->
-    <string name="pCodeEnglish">EN</string>
-    <string name="pCodeFrench">FR</string>
-    <string name="pCodeSpanish">ES</string>
-    <string name="pCodePortuguese">PT</string>
-    <string name="pCodeGerman">DE</string>
-    <string name="pCodeRussian">RU</string>
-    <string name="pCodeNoLanguage"></string>
-
     <!-- automatically select Kanji languages -->
     <string name="autoKanjiLanguage1">@string/pCodeEnglish</string>
     <string name="autoKanjiLanguage2">@string/pCodeNoLanguage</string>
     <string name="autoWordLanguage1">@string/pCodeEnglish</string>
     <string name="autoWordLanguage2">@string/pCodeNoLanguage</string>
-
+   
 </resources>

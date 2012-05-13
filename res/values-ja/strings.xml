@@ -1,18 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <string name="buttonClear">削除し</string>
-    <string name="buttonCancel">キャンセル</string>
-    <string name="buttonOk">受け取る</string>
-    <string name="buttonExit">終了</string>
-    <!-- FileDialog -->
+    <!-- language choices -->
+    <string name="English">"英語"</string>
+    <string name="French">"フランス語"</string>
+    <string name="Spanish">"スペイン語"</string>
+    <string name="Portuguese">"ポルトガル語"</string>
+    <string name="German">"ドイツ語"</string>
+    <string name="Russian">"ロシア語"</string>
+    <string name="NoLanguage">"なし"</string>
 
-    <string name="textLocation">場所</string>
-    <string name="textCantReadFolder">フォルダが読められない</string>
-    <string name="buttonNew">新しい</string>
-    <string name="buttonSelect">選ぶ</string>
-    <string name="buttonCreate">作る</string>
-    <string name="textNoData">データなし</string>
-    <string name="textFilename">ファイル名:</string>
+    <!-- widgets -->
+    <string name="buttonClear">"消去"</string>
+    <string name="buttonCancel">"取消し"</string>
+    <string name="buttonOk">"確定"</string>
+    <string name="buttonExit">"終了"</string>
+
+    <!-- FileDialog -->
+    <string name="textLocation">"場所"</string>
+    <string name="textCantReadFolder">"フォルダが読められない"</string>
+    <string name="buttonNew">"新しい"</string>
+    <string name="buttonSelect">"選ぶ"</string>
+    <string name="buttonCreate">"作る"</string>
+    <string name="textNoData">"データなし"</string>
+    <string name="textFilename">"ファイル名:"</string>
 
 </resources>

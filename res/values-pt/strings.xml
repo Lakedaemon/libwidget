@@ -1,34 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- automatically select Kanji languages -->
-    <string name="autoKanjiLanguage1">@string/pCodePortuguese</string>
-    <string name="autoKanjiLanguage2">@string/pCodeEnglish</string>
-    <string name="autoWordLanguage1">@string/pCodeEnglish</string>
-    <string name="autoWordLanguage2">@string/pCodeNoLanguage</string>
-
     <!-- language choices -->
-    <string name="English">Inglês</string>
-    <string name="French">Francês</string>
-    <string name="Spanish">Espanhol</string>
-    <string name="German">Alemão</string>
-    <string name="Russian">Russo</string>
-    <string name="Portuguese">Português</string>
-    <string name="NoLanguage">Nenhum</string>
+    <string name="English">"Português"</string>
+    <string name="French">"Francês"</string>
+    <string name="Spanish">"Espanhol"</string>
+    <string name="Portuguese">"Portuguesa"</string>
+    <string name="German">"Alemão"</string>
+    <string name="Russian">"Russo"</string>
+    <string name="NoLanguage">"Nenhuma"</string>
 
     <!-- widgets -->
-    <string name="buttonClear">Limpar</string>
-    <string name="buttonCancel">Cancelar</string>
-    <string name="buttonOk">Aceitar</string>
-    <string name="buttonExit">Sair</string>
-    <!-- FileDialog -->
+    <string name="buttonClear">"Apagar"</string>
+    <string name="buttonCancel">"Cancelar"</string>
+    <string name="buttonOk">"OK"</string>
+    <string name="buttonExit">"Sair"</string>
 
-    <string name="textLocation">Posição</string>
-    <string name="textCantReadFolder">Diretório não pode ser lido!</string>
-    <string name="buttonNew">Nova</string>
-    <string name="buttonSelect">Escolha</string>
-    <string name="buttonCreate">Criar</string>
-    <string name="textNoData">Não há dados</string>
-    <string name="textFilename">Nome do arquivo:</string>
+    <!-- FileDialog -->
+    <string name="textLocation">"Localização"</string>
+    <string name="textCantReadFolder">"Pasta não pode ser lido!"</string>
+    <string name="buttonNew">"Novo"</string>
+    <string name="buttonSelect">"Selecioar"</string>
+    <string name="buttonCreate">"Criar"</string>
+    <string name="textNoData">"Sem dados"</string>
+    <string name="textFilename">"Nome do arquivo:"</string>
 
 </resources>

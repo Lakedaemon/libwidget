@@ -1,34 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-    <!-- automatically select Kanji languages -->
-    <string name="autoKanjiLanguage1">@string/pCodeEnglish</string>
-    <string name="autoKanjiLanguage2">@string/pCodeNoLanguage</string>
-    <string name="autoWordLanguage1">@string/pCodeGerman</string>
-    <string name="autoWordLanguage2">@string/pCodeEnglish</string>
-
-    <!-- language choices -->
-    <string name="English">Englisch</string>
-    <string name="French">Französisch</string>
-    <string name="Spanish">Spanisch</string>
-    <string name="German">Deutsch</string>
-    <string name="Russian">Russisch</string>
-    <string name="Portuguese">Portugiesisch</string>
-    <string name="NoLanguage">Keines</string>
+     <!-- language choices -->
+    <string name="English">"Englisch"</string>
+    <string name="French">"Französisch"</string>
+    <string name="Spanish">"Spanisch"</string>
+    <string name="Portuguese">"Portugiesisch"</string>
+    <string name="German">"Deutsch"</string>
+    <string name="Russian">"Russisch"</string>
+    <string name="NoLanguage">"Keine"</string>
 
     <!-- widgets -->
-    <string name="buttonClear">Klare</string>
-    <string name="buttonCancel">Abbrechen</string>
-    <string name="buttonOk">OK</string>
-    <string name="buttonExit">Verlassen</string>
+    <string name="buttonClear">"Löschen"</string>
+    <string name="buttonCancel">"Abbrechen"</string>
+    <string name="buttonOk">"OK"</string>
+    <string name="buttonExit">"Beenden"</string>
 
     <!-- FileDialog -->
-    <string name="textLocation">Position</string>
-    <string name="textCantReadFolder">Ordner kann nicht gelesen werden!</string>
-    <string name="buttonNew">Neu</string>
-    <string name="buttonSelect">Wählen</string>
-    <string name="buttonCreate">Erstellen</string>
-    <string name="textNoData">Keine Daten</string>
-    <string name="textFilename">Dateiname:</string>
+    <string name="textLocation">"Lage"</string>
+    <string name="textCantReadFolder">"Ordner kann nicht gelesen werden!"</string>
+    <string name="buttonNew">"Neu"</string>
+    <string name="buttonSelect">"Wählen"</string>
+    <string name="buttonCreate">"Schaffen"</string>
+    <string name="textNoData">"Keine Daten"</string>
+    <string name="textFilename">"Dateiname"</string>
 
 </resources>

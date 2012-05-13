@@ -1,26 +1,28 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <!-- automatically select Kanji languages -->
-    <string name="autoKanjiLanguage1">@string/pCodeEnglish</string>
-    <string name="autoKanjiLanguage2">@string/pCodeNoLanguage</string>
-    <string name="autoWordLanguage1">@string/pCodeRussian</string>
-    <string name="autoWordLanguage2">@string/pCodeEnglish</string>
-    
-    <!-- language choices -->
-    
-    
-        <!-- widgets -->
-    <string name="buttonCancel">Отмена</string>
-    <string name="buttonOk">принимать</string>
-    <string name="buttonExit">выхода</string>
-    <!-- FileDialog -->
 
-    <string name="textLocation">месте</string>
-    <string name="textCantReadFolder">папка не может быть прочитан!</string>
-    <string name="buttonNew">новый</string>
-    <string name="buttonSelect">выбрать</string>
-    <string name="buttonCreate">создать</string>
-    <string name="textNoData">нет данных</string>
-    <string name="textFilename">имя файла:</string>
+    <!-- language choices -->
+    <string name="English">"Английский"</string>
+    <string name="French">"Французский"</string>
+    <string name="Spanish">"Испанский"</string>
+    <string name="Portuguese">"Португальского языка"</string>
+    <string name="German">"Немецкий"</string>
+    <string name="Russian">"Русский"</string>
+    <string name="NoLanguage">"Нет"</string>
+
+    <!-- widgets -->
+    <string name="buttonClear">"очистить"</string>
+    <string name="buttonCancel">"Отмена"</string>
+    <string name="buttonOk">"OK"</string>
+    <string name="buttonExit">"Выход"</string>
+
+    <!-- FileDialog -->
+    <string name="textLocation">"Расположение"</string>
+    <string name="textCantReadFolder">"Папка не может быть прочитана!"</string>
+    <string name="buttonNew">"Новый"</string>
+    <string name="buttonSelect">"Выборочно"</string>
+    <string name="buttonCreate">"Создавать"</string>
+    <string name="textNoData">"Данные отсутствуют"</string>
+    <string name="textFilename">"Имя файла."</string>
 
 </resources>

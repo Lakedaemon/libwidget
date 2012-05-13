@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <!-- automatically select Kanji languages -->
+    <string name="autoKanjiLanguage1">@string/pCodeEnglish</string>
+    <string name="autoKanjiLanguage2">@string/pCodeNoLanguage</string>
+    <string name="autoWordLanguage1">@string/pCodeGerman</string>
+    <string name="autoWordLanguage2">@string/pCodeEnglish</string>
+
+</resources>
