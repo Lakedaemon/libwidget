@@ -1,6 +1,11 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-
+    
+    <declare-styleable name="org.lakedaemon.SeekBarPreference">
+        <attr name="minValue" format="integer" />
+        <attr name="maxValue" format="integer" />
+    </declare-styleable>
+    
     <!-- persistent data, don't touch (auto select languages) -->
     <string name="pCodeEnglish">EN</string>
     <string name="pCodeFrench">FR</string>

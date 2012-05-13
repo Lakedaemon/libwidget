@@ -223,7 +223,7 @@ public class FileDialog extends ListActivity {
                                 lastPositions.put(currentPath, position);
                                 getDir(path.get(position));
                         } else {
-                                new AlertDialog.Builder(this).setIcon(R.drawable.icon)
+                                new AlertDialog.Builder(this).setIcon(R.drawable.folder)
                                                 .setTitle(
                                                                 "[" + file.getName() + "] "
                                                                                 + getText(R.string.textCantReadFolder))

@@ -12,7 +12,7 @@ import android.widget.SeekBar.OnSeekBarChangeListener;
 public final class SeekBarPreference extends DialogPreference implements OnSeekBarChangeListener {
 
 	// Namespaces to read attributes
-	private static final String PREFERENCE_NS = "http://schemas.android.com/apk/res/japanese.toolkit";
+	private static final String PREFERENCE_NS = "http://schemas.android.com/apk/res/org.lakedaemon";
 	private static final String ANDROID_NS = "http://schemas.android.com/apk/res/android";
 
 	// Attribute names

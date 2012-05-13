@@ -15,7 +15,9 @@
     <string name="buttonCancel">Cancel</string>
     <string name="buttonOk">OK</string>
     <string name="buttonExit">Exit</string>
-
+    <string name="buttonSettings">Settings</string>
+    <string name="buttonDelete">Delete</string>
+        
     <!-- FileDialog -->
     <string name="textLocation">Location</string>
     <string name="textCantReadFolder">folder can\'t be read!</string>
