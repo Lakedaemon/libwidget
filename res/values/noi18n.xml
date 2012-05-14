@@ -15,6 +15,11 @@
     <string name="pCodeRussian">RU</string>
     <string name="pCodeNoLanguage"></string>
 
+    <string name="preferenceKanjiLanguage1">KanjiLanguage1</string>
+    <string name="preferenceKanjiLanguage2">KanjiLanguage2</string>
+    <string name="preferenceWordLanguage1">WordLanguage1</string>
+    <string name="preferenceWordLanguage2">WordLanguage2</string>
+    
     <!-- automatically select Kanji languages -->
     <string name="autoKanjiLanguage1">@string/pCodeEnglish</string>
     <string name="autoKanjiLanguage2">@string/pCodeNoLanguage</string>
