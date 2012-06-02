@@ -2,6 +2,8 @@
 <resources>
 
     <!-- language choices -->
+    <string name="titleLanguage1">"一次言語"</string>
+    <string name="titleLanguage2">"二次言語"</string>
     <string name="English">"英語"</string>
     <string name="French">"フランス語"</string>
     <string name="Spanish">"スペイン語"</string>

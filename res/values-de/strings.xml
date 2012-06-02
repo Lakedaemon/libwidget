@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
 
-     <!-- language choices -->
+    <!-- language choices -->
+    <string name="titleLanguage1">"Primäre Sprache"</string>
+    <string name="titleLanguage2">"Sekundäre Sprache"</string>
     <string name="English">"Englisch"</string>
     <string name="French">"Französisch"</string>
     <string name="Spanish">"Spanisch"</string>

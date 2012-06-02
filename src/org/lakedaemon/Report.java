@@ -31,6 +31,7 @@ public class Report extends Handler {
 
 	
 	private void alert(String string) {
+
 		
 		new AlertDialog.Builder(activity)  
 		//	.setTitle(getString(R.string.filesNeeded))  

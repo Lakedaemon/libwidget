@@ -2,6 +2,8 @@
 <resources>
 
     <!-- language choices -->
+    <string name="titleLanguage1">"Idioma principal"</string>
+    <string name="titleLanguage2">"Idioma secundária"</string>
     <string name="English">"Português"</string>
     <string name="French">"Francês"</string>
     <string name="Spanish">"Espanhol"</string>
